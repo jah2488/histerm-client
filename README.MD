@@ -4,7 +4,7 @@
 - Clone the Repo
 - Either
   - Run the installer (_coming soon_)
-  - `mv bin/histerm_client ~/bin`
+  - `mv bin/histerm-client ~/bin`
 
 ## Usage
 Running the `histerm_client` command will start up a new histerm session. This terminal window will now begin watching for changes to your `~/.history` file and will send those to your session. To exit the session, simply CTRL+C the server to stop it from running.
